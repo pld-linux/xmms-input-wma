@@ -3,7 +3,7 @@ Summary(pl):	Wtyczka odtwarzaj±ca format WMA dla XMMS
 Name:		xmms-input-wma
 Version:	0.2.1
 Release:	1
-License:	GPL
+License:	GPL v2
 Group:		X11/Applications/Multimedia
 Source0:	http://mcmcc.bat.ru/xmms-wma/xmms-wma-%{version}.tar.bz2
 # Source0-md5:	0b621d1e57174cc2ba02f5090360b4e8
@@ -36,4 +36,5 @@ rm -rf $RPM_BUILD_ROOT
 
 %files
 %defattr(644,root,root,755)
+%doc readme*
 %attr(755,root,root) %{xmms_input_plugindir}/*so
