@@ -1,5 +1,5 @@
 Summary:	XMMS input plugin for WMA file format support
-Summary(pl):	Wtyczka dla XMMS-a odtwarzaj±ca pliki w formacie WMA dla XMMS
+Summary(pl):	Wtyczka wej¶ciowa dla XMMS-a odtwarzaj±ca pliki w formacie WMA
 Name:		xmms-input-wma
 Version:	1.0.3
 Release:	1
