@@ -1,12 +1,12 @@
 Summary:	XMMS input plugin for WMA file format support
 Summary(pl):	Wtyczka wej¶ciowa dla XMMS-a odtwarzaj±ca pliki w formacie WMA
 Name:		xmms-input-wma
-Version:	1.0.4
+Version:	1.0.5
 Release:	1
 License:	GPL v2
 Group:		X11/Applications/Multimedia
 Source0:	http://mcmcc.bat.ru/xmms-wma/xmms-wma-%{version}.tar.bz2
-# Source0-md5:	069cd8197a13047901876b35e91eb82e
+# Source0-md5:	5d62a0f969617aeb40096362c7a8a506
 URL:		http://mcmcc.bat.ru/xmms-wma/
 BuildRequires:	rpmbuild(macros) >= 1.125
 BuildRequires:	xmms-devel
